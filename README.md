@@ -7,7 +7,8 @@ A detailed description of the following in your implemented solution:
 - High Level Design
 - Novelty: Novelty of your solution from already existing solutions.
 - Features
-- Cost effectiveness and scalability of your solution(Quote suitable figures to justify your explanation) etc.
+- Cost effectiveness and scalability of your solution(Quote suitable figures to justify your explanation): This is applicable for blockchain track only.
+etc.
 
 ## Demonstration of the solution
 
