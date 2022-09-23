@@ -2,12 +2,12 @@
 
 ## Description of the solution
 
-A detailed description of 
+A detailed description of the following in your implemented solution:
 - Approach
 - High Level Design
 - Novelty: Novelty of your solution from already existing solutions.
-- Features and anything else 
-of the implemented solution.
+- Features
+- Cost effectiveness and scalability of your solution(Quote suitable figures to justify your explanation) etc.
 
 ## Demonstration of the solution
 
